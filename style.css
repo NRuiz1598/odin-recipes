@@ -1,20 +1,33 @@
 h1 {
     text-align: center;
     font-size: 48px;
-    font-family: Helvetica, sans-serif
+    font-family: Helvetica, sans-serif;
+    color: #3C3633;
 }
 
-.box {
+body {
+    background-color: #F3EEEA;
+    padding: 20px;
+}
+
+
+
+
+#line {
+    border-top: 1px solid #3C3633;
+    margin: 20px;
+}
+
+#box {
     display: flex;
     justify-content: center;
     justify-items: center;
     
 }
 
-.div {
-    border: 2px solid #000;
+#links {
+    border: 2px solid #3C3633;
     border-radius: 3px;
-    
 }
 
 .list {
