@@ -1,0 +1,27 @@
+body {
+    background-color: #F3EEEA;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    font-family: Helvetica, sans-serif;
+    color: #3C3633;
+}
+
+#line {
+    border-top: 3px solid #3C3633;
+    margin-bottom: 20px;
+}
+
+#center {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 480px;
+    height: auto;
+    position: center;
+}
+
