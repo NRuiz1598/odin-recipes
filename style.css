@@ -10,6 +10,14 @@ body {
     padding: 20px;
 }
 
+a {
+    color: #496989;
+}
+
+a:hover {
+    color: #B31312;
+}
+
 
 
 
@@ -28,6 +36,7 @@ body {
 #links {
     border: 2px solid #3C3633;
     border-radius: 3px;
+    
 }
 
 .list {
