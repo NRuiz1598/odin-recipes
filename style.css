@@ -15,7 +15,9 @@ a {
 }
 
 a:hover {
-    color: #B31312;
+    color: #EEEEEE;
+    background-color: #C73659;
+    
 }
 
 
@@ -36,12 +38,31 @@ a:hover {
 #links {
     border: 2px solid #3C3633;
     border-radius: 3px;
-    
+    background-color: #F3EEEA;
+
 }
 
 .list {
-    list-style-type: none;
+    list-style-type:none;
     font-size: 30px;
+    padding: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.list li {
     text-align: center;
-    margin-right: 30px;
+    
+}
+
+.list-a,
+.list-b,
+.list-c, 
+.list-d {
+    padding: 1px 16px;
+    
+}
+
+a {
+    text-decoration: none;
 }
